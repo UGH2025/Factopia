@@ -1,4 +1,6 @@
 Factopia
+
+
 Factopia is a website where you can read interesting facts about different topics like science, history, technology, and space. You can click on any topic to see facts appear one at a time, and the background colors change smoothly as you browse.
 
 What You Need Before You Start
